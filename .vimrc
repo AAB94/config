@@ -10,3 +10,5 @@ set number
 
 # if copy pasting on right click does not work on vim then add below
 # set mouse=r
+
+set hlsearch
